@@ -19,5 +19,6 @@ Link google: https://www.google.pl/maps/place/52%C2%B034'33.4%22N+20%C2%B037'36.
    ![](/09.JPG)
 1. jak las sie skonczy, przed polami w lewo
    ![](/10.JPG)
+   ![](/11.JPG)   
 1. druga w prawo i prosto
-   ![](/11.JPG)
+   ![](/12.JPG)
