@@ -13,7 +13,7 @@ Miejsce na mapie Google: https://www.google.pl/maps/place/52%C2%B034'33.4%22N+20
 1. **Z drogi 571 jadąc ze Starej Wrony do Nowej Wrony skręca sie w lewo na Gadowo**
    ![](/04.JPG)
    ![](/05.JPG)
-1. **Potem asfaltem az sie na chwile skonczy, przez rzekę Naruszewkę, obok starego młyna**
+1. **Potem asfaltem aż sie na chwile skonczy, przez rzekę Naruszewkę, obok starego młyna**
    ![](/06.JPG)
    ![](/07.JPG)
 1. **Za sklepem spożywczym, zaczyna się asfalt i zaraz po 50m prawo w drogę szutrową, leśną (na drzewie jest nieduża biała reklama "DACHY")**
@@ -25,4 +25,4 @@ Miejsce na mapie Google: https://www.google.pl/maps/place/52%C2%B034'33.4%22N+20
 1. **Druga w prawo i prosto**
    ![](/12.JPG)
 1. **Domek będzie po prawej**
-**
+
