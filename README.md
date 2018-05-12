@@ -1,4 +1,4 @@
-# Dzialka
+# Działka
 
 Działka przy szutrowej drodze prowadzącej do miniplaży przy moscie kolejowym w Cieksynie, nad Wkrą.
 Miejsce na mapie Google: https://www.google.pl/maps/place/52%C2%B034'33.4%22N+20%C2%B037'36.4%22E/@52.575943,20.6256424,317m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d52.575943!4d20.626779
